@@ -20,7 +20,7 @@ class Program
 
             if (usuarioDigitado == USUARIO_SISTEMA && senhaDigitada == SENHA_SISTEMA)
             {
-                Console.WriteLine("Login realizado com sucesso");
+                Console.WriteLine("Login realizado com sucesso.");
                 break;
             }
             contadorTentativas++;
@@ -29,7 +29,7 @@ class Program
 
         if (contadorTentativas >= TENTATIVAS_MAXIMAS)
         {
-            Console.WriteLine("sua conta foi bloqueada");
+            Console.WriteLine("Sua conta foi bloqueada.");
         }
     }
 }

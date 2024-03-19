@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Área de Trabalho\\Prog\\Programacao-Procedural\\Aulas\\Aula8 - Lacos de repeticao aninhados\\ex01\\ex01.csproj",
+      "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Área de Trabalho\\Prog\\Programacao-Procedural\\Aulas\\Aula8\\ex01\\ex01.csproj",
       "projectName": "ex01",
-      "projectPath": "C:\\Users\\ferna\\OneDrive\\Área de Trabalho\\Prog\\Programacao-Procedural\\Aulas\\Aula8 - Lacos de repeticao aninhados\\ex01\\ex01.csproj",
+      "projectPath": "C:\\Users\\ferna\\OneDrive\\Área de Trabalho\\Prog\\Programacao-Procedural\\Aulas\\Aula8\\ex01\\ex01.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferna\\OneDrive\\Área de Trabalho\\Prog\\Programacao-Procedural\\Aulas\\Aula8 - Lacos de repeticao aninhados\\ex01\\obj\\",
+      "outputPath": "C:\\Users\\ferna\\OneDrive\\Área de Trabalho\\Prog\\Programacao-Procedural\\Aulas\\Aula8\\ex01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"

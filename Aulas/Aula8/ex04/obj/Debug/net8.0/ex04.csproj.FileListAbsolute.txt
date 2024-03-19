@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula8\ex04\bin\Debug\net8.0\ex04.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula8\ex04\bin\Debug\net8.0\ex04.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula8\ex04\bin\Debug\net8.0\ex04.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula8\ex04\bin\Debug\net8.0\ex04.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula8\ex04\bin\Debug\net8.0\ex04.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula8\ex04\obj\Debug\net8.0\ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula8\ex04\obj\Debug\net8.0\ex04.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula8\ex04\obj\Debug\net8.0\ex04.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula8\ex04\obj\Debug\net8.0\ex04.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula8\ex04\obj\Debug\net8.0\ex04.sourcelink.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula8\ex04\obj\Debug\net8.0\ex04.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula8\ex04\obj\Debug\net8.0\refint\ex04.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula8\ex04\obj\Debug\net8.0\ex04.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula8\ex04\obj\Debug\net8.0\ex04.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula8\ex04\obj\Debug\net8.0\ref\ex04.dll

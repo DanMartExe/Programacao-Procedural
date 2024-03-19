@@ -1,0 +1,14 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Aula2\bin\Debug\net8.0\Aula2.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Aula2\bin\Debug\net8.0\Aula2.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Aula2\bin\Debug\net8.0\Aula2.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Aula2\bin\Debug\net8.0\Aula2.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Aula2\bin\Debug\net8.0\Aula2.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Aula2\obj\Debug\net8.0\Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Aula2\obj\Debug\net8.0\Aula2.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Aula2\obj\Debug\net8.0\Aula2.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Aula2\obj\Debug\net8.0\Aula2.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Aula2\obj\Debug\net8.0\Aula2.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Aula2\obj\Debug\net8.0\refint\Aula2.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Aula2\obj\Debug\net8.0\Aula2.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Aula2\obj\Debug\net8.0\Aula2.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Aula2\obj\Debug\net8.0\ref\Aula2.dll

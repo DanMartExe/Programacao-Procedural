@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula 7 - Laco do while e laco for\ex02\bin\Debug\net8.0\ex02.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula 7 - Laco do while e laco for\ex02\bin\Debug\net8.0\ex02.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula 7 - Laco do while e laco for\ex02\bin\Debug\net8.0\ex02.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula 7 - Laco do while e laco for\ex02\bin\Debug\net8.0\ex02.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula 7 - Laco do while e laco for\ex02\bin\Debug\net8.0\ex02.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula 7 - Laco do while e laco for\ex02\obj\Debug\net8.0\ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula 7 - Laco do while e laco for\ex02\obj\Debug\net8.0\ex02.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula 7 - Laco do while e laco for\ex02\obj\Debug\net8.0\ex02.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula 7 - Laco do while e laco for\ex02\obj\Debug\net8.0\ex02.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula 7 - Laco do while e laco for\ex02\obj\Debug\net8.0\ex02.sourcelink.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula 7 - Laco do while e laco for\ex02\obj\Debug\net8.0\ex02.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula 7 - Laco do while e laco for\ex02\obj\Debug\net8.0\refint\ex02.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula 7 - Laco do while e laco for\ex02\obj\Debug\net8.0\ex02.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula 7 - Laco do while e laco for\ex02\obj\Debug\net8.0\ex02.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Prog\Programacao-Procedural\Aulas\Aula 7 - Laco do while e laco for\ex02\obj\Debug\net8.0\ref\ex02.dll
