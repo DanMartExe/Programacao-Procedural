@@ -5,10 +5,12 @@ class Program
     static void Main(string[] args)
     {
         Tabuleiro.InicializaTabuleiro();
+        
+        const int COORDENADA_MAXIMA = 7;
 
-        for (int linha = 0; linha <= 7; linha++)
+        for (int linha = 0; linha <= COORDENADA_MAXIMA; linha++)
         {
-            for (int coluna = 0; coluna <= 7; coluna++)
+            for (int coluna = 0; coluna <= COORDENADA_MAXIMA; coluna++)
             {
                 if (linha % 2 == 0)
                 {
